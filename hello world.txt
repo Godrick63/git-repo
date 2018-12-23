@@ -1,3 +1,4 @@
 print("hello world")
 print("hello everybody")
-priny("hello")
+print("hello")
+print("hello my dear freind")
